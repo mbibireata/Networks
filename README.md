@@ -2,6 +2,6 @@
 
 Simulation of network of neurons. Randomly connected and mean field cases are considered.
 
-Disclaimer: I did NOT write the code for cells 2, 3, or 4 in Kcore.ipynb! 
+Code for cells 2, 3, and 4 was inherited 
 
 (save Kcore locally then cp/commit to github)
