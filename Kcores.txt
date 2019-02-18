@@ -1,481 +1,56 @@
-delV:  4.0
-transition from 3 to 2
-Kcore:  15.0 Predicted: 16.07142857142857
-delV:  4.1
-transition from 3 to 2
-Kcore:  14.0 Predicted: 15.679442508710801
-delV:  4.199999999999999
-transition from 3 to 2
-Kcore:  14.0 Predicted: 15.306122448979593
-delV:  4.299999999999999
-transition from 3 to 2
-Kcore:  14.0 Predicted: 14.950166112956813
-delV:  4.399999999999999
-transition from 3 to 2
-Kcore:  14.0 Predicted: 14.610389610389614
-delV:  4.499999999999998
-transition from 3 to 2
-Kcore:  14.0 Predicted: 14.285714285714292
-delV:  4.599999999999998
-transition from 3 to 2
-Kcore:  12.0 Predicted: 13.975155279503113
-delV:  4.6999999999999975
-transition from 3 to 2
-Kcore:  12.0 Predicted: 13.677811550151981
-delV:  4.799999999999997
-transition from 3 to 2
-Kcore:  12.0 Predicted: 13.39285714285715
-delV:  4.899999999999997
-transition from 3 to 2
-Kcore:  12.0 Predicted: 13.1195335276968
-delV:  4.9999999999999964
-transition from 3 to 2
-Kcore:  12.0 Predicted: 12.857142857142867
-delV:  5.099999999999996
-transition from 3 to 2
-Kcore:  12.0 Predicted: 12.605042016806733
-delV:  5.199999999999996
-transition from 3 to 2
-Kcore:  12.0 Predicted: 12.362637362637372
-delV:  5.299999999999995
-transition from 3 to 2
-Kcore:  12.0 Predicted: 12.129380053908365
-delV:  5.399999999999995
-transition from 3 to 2
-Kcore:  10.0 Predicted: 11.904761904761916
-delV:  5.499999999999995
-transition from 3 to 2
-Kcore:  10.0 Predicted: 11.6883116883117
-delV:  5.599999999999994
-transition from 3 to 2
-Kcore:  10.0 Predicted: 11.479591836734706
-delV:  5.699999999999994
-transition from 3 to 2
-Kcore:  10.0 Predicted: 11.278195488721815
-delV:  5.799999999999994
-transition from 3 to 2
-Kcore:  10.0 Predicted: 11.083743842364543
-delV:  5.899999999999993
-transition from 3 to 2
-Kcore:  10.0 Predicted: 10.895883777239721
-delV:  5.999999999999993
-transition from 3 to 2
-Kcore:  10.0 Predicted: 10.714285714285728
-delV:  6.0999999999999925
-transition from 3 to 2
-Kcore:  10.0 Predicted: 10.53864168618268
-delV:  6.199999999999992
-transition from 3 to 2
-Kcore:  10.0 Predicted: 10.368663594470059
-delV:  6.299999999999992
-transition from 3 to 2
-Kcore:  10.0 Predicted: 10.204081632653072
-delV:  6.3999999999999915
-transition from 3 to 2
-Kcore:  10.0 Predicted: 10.044642857142868
-delV:  6.499999999999991
-transition from 3 to 2
-Kcore:  9.0 Predicted: 9.890109890109903
-delV:  6.599999999999991
-transition from 3 to 2
-Kcore:  9.0 Predicted: 9.740259740259752
-delV:  6.69999999999999
-transition from 3 to 2
-Kcore:  9.0 Predicted: 9.5948827292111
-delV:  6.79999999999999
-transition from 3 to 2
-Kcore:  9.0 Predicted: 9.453781512605055
-delV:  6.89999999999999
-transition from 3 to 2
-Kcore:  9.0 Predicted: 9.316770186335416
-delV:  6.999999999999989
-transition from 3 to 2
-Kcore:  9.0 Predicted: 9.183673469387768
-delV:  7.099999999999989
-transition from 3 to 2
-Kcore:  9.0 Predicted: 9.05432595573442
-delV:  7.199999999999989
-transition from 3 to 2
-Kcore:  8.0 Predicted: 8.928571428571441
-delV:  7.299999999999988
-transition from 3 to 2
-Kcore:  8.0 Predicted: 8.806262230919778
-delV:  7.399999999999988
-transition from 3 to 2
-Kcore:  8.0 Predicted: 8.6872586872587
-delV:  7.499999999999988
-transition from 3 to 2
-Kcore:  8.0 Predicted: 8.571428571428584
-delV:  7.599999999999987
-transition from 3 to 2
-Kcore:  8.0 Predicted: 8.458646616541367
-delV:  7.699999999999987
-transition from 3 to 2
-Kcore:  8.0 Predicted: 8.34879406307979
-delV:  7.7999999999999865
-transition from 3 to 2
-Kcore:  8.0 Predicted: 8.241758241758255
-delV:  7.899999999999986
-transition from 3 to 2
-Kcore:  8.0 Predicted: 8.137432188065112
-delV:  7.999999999999986
-transition from 3 to 2
-Kcore:  8.0 Predicted: 8.035714285714299
-delV:  8.099999999999985
-transition from 3 to 2
-Kcore:  8.0 Predicted: 7.93650793650795
-delV:  8.199999999999985
-transition from 3 to 2
-Kcore:  8.0 Predicted: 7.839721254355413
-delV:  8.299999999999985
-transition from 3 to 2
-Kcore:  8.0 Predicted: 7.745266781411373
-delV:  8.399999999999984
-transition from 3 to 2
-Kcore:  8.0 Predicted: 7.653061224489809
-delV:  8.499999999999984
-transition from 3 to 2
-Kcore:  8.0 Predicted: 7.563025210084047
-delV:  8.599999999999984
-transition from 3 to 2
-Kcore:  8.0 Predicted: 7.475083056478418
-delV:  8.699999999999983
-transition from 3 to 2
-Kcore:  8.0 Predicted: 7.389162561576368
-delV:  8.799999999999983
-transition from 3 to 2
-Kcore:  8.0 Predicted: 7.305194805194819
-delV:  8.899999999999983
-transition from 3 to 2
-Kcore:  8.0 Predicted: 7.223113964687011
-delV:  8.999999999999982
-transition from 3 to 2
-Kcore:  8.0 Predicted: 7.142857142857157
-delV:  9.099999999999982
-transition from 3 to 2
-Kcore:  8.0 Predicted: 7.064364207221363
-delV:  9.199999999999982
-transition from 3 to 2
-Kcore:  7.0 Predicted: 6.987577639751566
-delV:  9.299999999999981
-transition from 3 to 2
-Kcore:  7.0 Predicted: 6.912442396313377
-delV:  9.39999999999998
-transition from 3 to 2
-Kcore:  7.0 Predicted: 6.838905775076
-delV:  9.49999999999998
-transition from 3 to 2
-Kcore:  7.0 Predicted: 6.766917293233096
-delV:  9.59999999999998
-transition from 3 to 2
-Kcore:  7.0 Predicted: 6.6964285714285845
-delV:  9.69999999999998
-transition from 3 to 2
-Kcore:  7.0 Predicted: 6.627393225331383
-delV:  9.79999999999998
-transition from 3 to 2
-Kcore:  7.0 Predicted: 6.559766763848409
-delV:  9.899999999999979
-transition from 3 to 2
-Kcore:  7.0 Predicted: 6.493506493506506
-delV:  9.999999999999979
-transition from 3 to 2
-Kcore:  7.0 Predicted: 6.428571428571441
-delV:  10.099999999999978
-transition from 3 to 2
-Kcore:  7.0 Predicted: 6.364922206506377
-delV:  10.199999999999978
-transition from 3 to 2
-Kcore:  7.0 Predicted: 6.3025210084033745
-delV:  10.299999999999978
-transition from 3 to 2
-Kcore:  7.0 Predicted: 6.241331484049943
-delV:  10.399999999999977
-transition from 3 to 2
-Kcore:  7.0 Predicted: 6.181318681318693
-delV:  10.499999999999977
-transition from 3 to 2
-Kcore:  7.0 Predicted: 6.12244897959185
-delV:  10.599999999999977
-transition from 3 to 2
-Kcore:  7.0 Predicted: 6.064690026954191
-delV:  10.699999999999976
-transition from 3 to 2
-Kcore:  7.0 Predicted: 6.008010680907891
-delV:  10.799999999999976
-transition from 3 to 2
-Kcore:  5.0 Predicted: 5.952380952380965
-delV:  10.899999999999975
-transition from 3 to 2
-Kcore:  5.0 Predicted: 5.897771952817837
-delV:  10.999999999999975
-transition from 3 to 2
-Kcore:  5.0 Predicted: 5.844155844155857
-delV:  11.099999999999975
-transition from 3 to 2
-Kcore:  5.0 Predicted: 5.791505791505804
-delV:  11.199999999999974
-transition from 3 to 2
-Kcore:  5.0 Predicted: 5.73979591836736
-delV:  11.299999999999974
-transition from 3 to 2
-Kcore:  5.0 Predicted: 5.689001264222515
-delV:  11.399999999999974
-transition from 3 to 2
-Kcore:  5.0 Predicted: 5.639097744360914
-delV:  11.499999999999973
-transition from 3 to 2
-Kcore:  5.0 Predicted: 5.590062111801255
-delV:  11.599999999999973
-transition from 3 to 2
-Kcore:  5.0 Predicted: 5.5418719211822784
-delV:  11.699999999999973
-transition from 3 to 2
-Kcore:  5.0 Predicted: 5.494505494505507
-delV:  11.799999999999972
-transition from 3 to 2
-Kcore:  5.0 Predicted: 5.447941888619867
-delV:  11.899999999999972
-transition from 3 to 2
-Kcore:  5.0 Predicted: 5.40216086434575
-delV:  11.999999999999972
-transition from 3 to 2
-Kcore:  5.0 Predicted: 5.357142857142869
-delV:  12.099999999999971
-transition from 3 to 2
-Kcore:  5.0 Predicted: 5.312868949232598
-delV:  12.19999999999997
-transition from 3 to 2
-Kcore:  5.0 Predicted: 5.269320843091347
-delV:  12.29999999999997
-transition from 3 to 2
-Kcore:  5.0 Predicted: 5.226480836236947
-delV:  12.39999999999997
-transition from 3 to 2
-Kcore:  5.0 Predicted: 5.184331797235036
-delV:  12.49999999999997
-transition from 3 to 2
-Kcore:  5.0 Predicted: 5.142857142857155
-delV:  12.59999999999997
-transition from 3 to 2
-Kcore:  5.0 Predicted: 5.102040816326543
-delV:  12.699999999999969
-transition from 3 to 2
-Kcore:  5.0 Predicted: 5.061867266591688
-delV:  12.799999999999969
-transition from 3 to 2
-Kcore:  5.0 Predicted: 5.022321428571441
-delV:  12.899999999999968
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.983388704318949
-delV:  12.999999999999968
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.945054945054957
-delV:  13.099999999999968
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.907306434024004
-delV:  13.199999999999967
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.870129870129882
-delV:  13.299999999999967
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.833512352309357
-delV:  13.399999999999967
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.797441364605556
-delV:  13.499999999999966
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.761904761904773
-delV:  13.599999999999966
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.726890756302533
-delV:  13.699999999999966
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.692387904066748
-delV:  13.799999999999965
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.6583850931677135
-delV:  13.899999999999965
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.624871531346363
-delV:  13.999999999999964
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.591836734693889
-delV:  14.099999999999964
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.559270516717337
-delV:  14.199999999999964
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.527162977867214
-delV:  14.299999999999963
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.495504495504506
-delV:  14.399999999999963
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.464285714285726
-delV:  14.499999999999963
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.433497536945824
-delV:  14.599999999999962
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.403131115459894
-delV:  14.699999999999962
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.3731778425656085
-delV:  14.799999999999962
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.343629343629354
-delV:  14.899999999999961
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.314477468839896
-delV:  14.999999999999961
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.285714285714296
-delV:  15.09999999999996
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.25733207190162
-delV:  15.19999999999996
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.229323308270687
-delV:  15.29999999999996
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.201680672268918
-delV:  15.39999999999996
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.1743970315398995
-delV:  15.49999999999996
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.147465437788029
-delV:  15.599999999999959
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.120879120879132
-delV:  15.699999999999958
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.094631483166526
-delV:  15.799999999999958
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.06871609403256
-delV:  15.899999999999958
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.043126684636129
-delV:  15.999999999999957
-transition from 3 to 2
-Kcore:  5.0 Predicted: 4.017857142857153
-delV:  16.09999999999996
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.9929015084294686
-delV:  16.19999999999996
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.9682539682539772
-delV:  16.29999999999996
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.9439088518843213
-delV:  16.399999999999963
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.919860627177709
-delV:  16.499999999999964
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.896103896103904
-delV:  16.599999999999966
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.872633390705688
-delV:  16.699999999999967
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.8494439692044553
-delV:  16.79999999999997
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.8265306122449045
-delV:  16.89999999999997
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.803888419273041
-delV:  16.99999999999997
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.7815126050420225
-delV:  17.099999999999973
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.759398496240607
-delV:  17.199999999999974
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.737541528239208
-delV:  17.299999999999976
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.715937241948807
-delV:  17.399999999999977
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.694581280788182
-delV:  17.49999999999998
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.673469387755106
-delV:  17.59999999999998
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.6525974025974066
-delV:  17.69999999999998
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.6319612590799064
-delV:  17.799999999999983
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.6115569823435023
-delV:  17.899999999999984
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.5913806863527564
-delV:  17.999999999999986
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.5714285714285734
-delV:  18.099999999999987
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.55169692186267
-delV:  18.19999999999999
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.532182103610677
-delV:  18.29999999999999
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.512880562060891
-delV:  18.39999999999999
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.4937888198757783
-delV:  18.499999999999993
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.474903474903476
-delV:  18.599999999999994
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.456221198156683
-delV:  18.699999999999996
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.4377387318563795
-delV:  18.799999999999997
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.419452887537994
-delV:  18.9
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.401360544217687
-delV:  19.0
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.3834586466165413
-delV:  19.1
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.3657442034405385
-delV:  19.200000000000003
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.3482142857142847
-delV:  19.300000000000004
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.330866025166542
-delV:  19.400000000000006
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.3136966126656837
-delV:  19.500000000000007
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.2967032967032948
-delV:  19.60000000000001
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.2798833819241966
-delV:  19.70000000000001
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.263234227701231
-delV:  19.80000000000001
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.246753246753244
-delV:  19.900000000000013
-transition from 3 to 2
-Kcore:  4.0 Predicted: 3.230437903804736
-loop complete
+@jit(nopython=True)
+def mean_field_dynamics(params):
+    N = int(params[0])
+    n = int(params[1]) 
+    dt = params[2]
+    tauv = params[3]
+    tauc = params[4] 
+    Vstar = params[5] 
+    Cstar = params[6]
+    delV = params[7]
+    delC = params[8]
+    r_1 = params[9]
+    r_0 = params[10]
+    V_0 = params[11]
+    C_0 = params[12]
+    
+    V=zeros(N*n).reshape(N,n)  #now we have potencial and calcium concentration for each neuron
+    C=zeros(N*n).reshape(N,n)
+    
+    firing_neurons_count = zeros(N*n).reshape(N,n) #Individually count how may neurons are actually firing in this model at a given step N.
+    
+    avV=zeros(N) #average potencial
+    avC=zeros(N)  #average calcium
+    
+    for i in range(n):
+        V[0,i]=V_0 #initial conditions
+        C[0,i]=C_0
+        if V[0,i] > Vstar: #keep track of and return how many neurons in the network are actually firing  
+            firing_neurons_count[0,i] = 1
+        avV[0]=n*V_0  #we will divide to n later
+        avC[0]=n*C_0
+    
+    for i in range(N - 1): 
+        for j in range(n):
+            if V[i,j] > Vstar: 
+                r = r_1
+            else:
+                r = 0
+
+            if C[i,j] < Cstar: 
+                dV = delV 
+            else: 
+                dV = 0
+
+            V[i+1,j] = (-V[i,j]/tauv + n*dV*(r + r_0)) * dt + V[i,j]
+            if V[i+1,j] > Vstar: 
+                firing_neurons_count[i+1,j] = 1
+            C[i+1,j] = (-C[i,j]/tauc + n*delC*(r + r_0)) * dt + C[i,j]
+            avC[i+1]=avC[i+1]+C[i+1,j]
+            avV[i+1]=avV[i+1]+V[i+1,j]
+            
+    for i in range (N):
+        avC[i]=avC[i]/n
+        avV[i]=avV[i]/n    
+    
+    return avC, avV, firing_neurons_count 
