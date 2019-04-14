@@ -1,7 +1,10 @@
 # Networks
 
-Simulation of network of neurons. Randomly connected and mean field cases are considered.
+Simulation of network of neuron networks.
 
-Code for cells 2, 3, and 4 was inherited 
+Graph Theoretic routines written by Devin.
 
-(save Kcore locally then cp/commit to github)
+Simulation dynamics functions written by Valentin Slepukhin
+
+Phase space exploration by Mihai.
+
