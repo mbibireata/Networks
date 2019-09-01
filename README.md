@@ -42,7 +42,7 @@ g_v   = 5     # Voltage sigmoid steepness parameter (V)
 g_c   = 5     # Calcium concentration sigmoid steepness parameter (Ca conc. arb. units)
 ```
 
-3. Save parameters in np.array or other structure to pass into functions
+3. Save parameters in np.array or other structure to pass into functions (this helps JIT compiler)
 
 ```
 params = np.zeros(15, dtype=float)
