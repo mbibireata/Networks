@@ -71,12 +71,75 @@ network = Network(M,l,params)
 ```
 
 5. Run code to generate phase diagram
-(neuron activation function keywords "sigmoid" and "step" are accepted)
-(network connectivity keywords "heterogeneous" and "mean field" are accepted)
-(x parameter keywords "delV", "delC", "g_v", "g_c" are accepted)
-(y parameter keyword "n" is accepted)
+    - (neuron activation function keywords "sigmoid" and "step" are accepted)
+    - (network connectivity keywords "heterogeneous" and "mean field" are accepted)
+    - (x parameter keywords "delV", "delC", "g_v", "g_c" are accepted)
+    - (y parameter keyword "n" is accepted)
 
 ```
 phase = network.phase_diagram("delV", n, delVmin, delVmax, dV, nmin, nmax, dn
                               "full", "heterogeneous", "sigmoid")
+```
+
+6. Plot phase diagram
+
+```
+# full space plot
+cmap = plt.cm.viridis
+data = np.flip(phase, axis=0)
+norm = plt.Normalize(vmin = data.min(), vmax = data.max())
+img = cmap(norm(data))
+imshow(img, aspect='auto', extent=[delVmin, delVmax, nmin, nmax])
+plt.title("delC = {:.3f}, p = {:.3f}".format(delC, p))
+xlabel(r"$\Delta V$")
+ylabel(r"Neuron Count, $N$")
+
+# boundary trace plot
+for i in phase:
+    plt.plot(phase[i][1], phase[i][0])
+xlabel(r"$\Delta V$")
+ylabel("Number of Neurons, $n$")
+```
+
+## Instructions for plotting network connectivity diagrams
+1. Install and import networkx library
+
+```
+import networkx as nx
+```
+
+2. Run a dynamics simulation for a given set of parameters
+
+```
+avC, avV, C, V, sump = network.simdyn(network.M, network.l, network.params,
+                                      connectivity="heterogeneous, activation="sigmoid")
+```
+
+3. Construct directed graph object
+
+```
+t = -1                                         # time step from dynamics simulation being plotted
+
+G = nx.DiGraph()
+for i in range(network.n): 
+    if  V[t, i] > Vstar: # t = -1
+        G.add_node(i, color='r', firing=True)  # plot firing neurons in red
+    else:
+        G.add_node(i, color='y', firing=False) # plot nonfiring neurons in yellow
+        
+for i in range(network.n): 
+    for j in range(network.n): 
+        if network.M[i,j] == 1: 
+            G.add_edge(i,j)
+
+clist = np.zeros(network.n, dtype=str)
+for i in range(network.n):
+    color = G.nodes.data()[i]['color']
+    clist[i] = color
+```
+
+4. Plot network 
+
+```
+nx.draw_circular(G, node_size=240, width=0.7, with_labels=True, node_color=clist)
 ```
