@@ -71,7 +71,12 @@ network = Network(M,l,params)
 ```
 
 5. Run code to generate phase diagram
+(neuron activation function keywords "sigmoid" and "step" are accepted)
+(network connectivity keywords "heterogeneous" and "mean field" are accepted)
+(x parameter keywords "delV", "delC", "g_v", "g_c" are accepted)
+(y parameter keyword "n" is accepted)
 
 ```
-phase = network.phase_diagram()
+phase = network.phase_diagram("delV", n, delVmin, delVmax, dV, nmin, nmax, dn
+                              "full", "heterogeneous", "sigmoid")
 ```
