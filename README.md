@@ -41,3 +41,37 @@ r_0   = 5     # Basal firing rate (Hz)
 g_v   = 5     # Voltage sigmoid steepness parameter (V)
 g_c   = 5     # Calcium concentration sigmoid steepness parameter (Ca conc. arb. units)
 ```
+
+3. Save parameters in np.array or other structure to pass into functions
+
+```
+params = np.zeros(15, dtype=float)
+
+params[0]  = N     # Must cast to int later 
+params[1]  = n     # Must cast to int later
+params[2]  = dt
+params[3]  = tauv
+params[4]  = tauc
+params[5]  = Vstar
+params[6]  = Cstar
+params[7]  = delV
+params[8]  = delC
+params[9]  = r_1
+params[10] = V0
+params[11] = C0
+params[12] = g_v
+params[13] = g_c
+params[14] = r_0
+```
+
+4. Initialize network object
+
+```
+network = Network(M,l,params)
+```
+
+5. Run code to generate phase diagram
+
+```
+phase = network.phase_diagram()
+```
