@@ -10,6 +10,8 @@ Phase space exploration by Mihai.
 
 The most up-to-date and readable version of the project is in the file Rhythmogenesis.ipynb
 
+If notebook cannot load in github, copy full url path to notebook into https://nbviewer.jupyter.org/
+
 ## Instructions for running simulations
 
 1. Initialize Network Connectivity
